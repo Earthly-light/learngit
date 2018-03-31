@@ -10,4 +10,4 @@ Git tracks changes.
 
 Git tracks changes of  files.
 
-追踪
+追踪你妹的
