@@ -1,13 +1,2 @@
-首先创建一个文件
-
-接下来添加一点东西
-
-git is a free software under THE GPL
-
-Git has a mutable index called stage.
-
-Git tracks changes.
-
-Git tracks changes of  files.
-
-追踪你妹的
+清空
+加上和尚
